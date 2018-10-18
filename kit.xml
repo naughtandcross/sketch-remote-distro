@@ -4,14 +4,14 @@
     <title>Beach Balls</title>
     <description>My Sketch Library</description>
     <image>
-      <url>https://raw.githubusercontent.com/naughtandcross/sketch-remote-distro/master/bb.png</url>
+      <url>https://github.com/naughtandcross/sketch-remote-distro/blob/master/bb.png?raw=true</url>
       <title>My Sketch Library</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>My Special Beach Ball Library</title>
       <pubDate>Wed, 18 Oct 2018 13:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/naughtandcross/sketch-remote-distro/raw/master/Beachball.sketch" length="4611" type="application/octet-stream" sparkle:version="2"/>
+      <enclosure url="https://github.com/naughtandcross/sketch-remote-distro/raw/master/Beachball.sketch" length="4611" type="application/octet-stream" sparkle:version="3"/>
     </item>
   </channel>
 </rss>
