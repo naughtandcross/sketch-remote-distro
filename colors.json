@@ -1,0 +1,16 @@
+{
+  "action" : "#F63E7C",
+  "primary" : "#333333",
+  "secondary" : "#787878",
+  "tertiary" : "#A9A9A9",
+  "reversed" : "#FFFFFF",
+  "sketch" : "#FBAA29",
+  "primaryreversed": "#FFFFFF",
+  "secondary-reversed":"rgba(255,255,255,0.75)",
+  "purple-primary" : "#714668",
+  "purple-secondary" : "#9A7F9C",
+  "purple-tertiary" : "#DBCFDB",
+  "purple-dark-bg" : "#EEEAEE",
+  "purple-medium-bg" : "#F3F0F3",
+  "purple-light-bg" : "#F9F9FA"
+}
