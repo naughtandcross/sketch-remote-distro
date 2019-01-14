@@ -1,5 +1,5 @@
 {
-  "theme1" : "",
-  "theme2" : "",
-  "theme3" : ""
+  "theme1" : "https://raw.githubusercontent.com/naughtandcross/sketch-remote-distro/master/themes/theme1.json",
+  "theme2" : "https://raw.githubusercontent.com/naughtandcross/sketch-remote-distro/master/themes/theme2.json",
+  "theme3" : "https://raw.githubusercontent.com/naughtandcross/sketch-remote-distro/master/themes/theme3.json"
 }
